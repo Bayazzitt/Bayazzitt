@@ -2,7 +2,6 @@
 
 ### Front-End Developer
 
-[![Bayazitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayazzitt)](https://github.com/Bayazzitt/github-readme-stats)
 
 🚩 Istanbul/Turkey
 
