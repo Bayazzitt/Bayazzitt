@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Ali Can Bayazıt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/alican-bayazit/
+[linkedin]: www.linkedin.com/in/ali-can-bayazit
 
 <br />
 
