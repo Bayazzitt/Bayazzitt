@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Ali Can👋</h1>
 <h3 align="center">I am a Front End Developer developing projects on React.js</h3>
+<h2 align="center">🚩Istanbul-Turkey</h2>
 
 - 📫 How to reach me **alicanbayazit300@gmail.com**
 
