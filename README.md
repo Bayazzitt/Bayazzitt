@@ -6,7 +6,7 @@
 - 🔭 UX Perspective
 - 🖼️ Modern UI
 - 💻Informatics and Hardware
-- 📫 How to reach me : **alicanbayazit300@gmail.com**
+- 📫 How to reach me : **alicanbayazit98@gmail.com**
 
 <h3 align="left">↓ Connect with me in Linkedin ↓</h3>
 <p align="left">
